@@ -14,4 +14,4 @@ export const assets = {
     parcel_icon
 }
 
-export const url = 'http://localhost:5173';
+export const url = 'https://main-backend-t05c.onrender.com';
